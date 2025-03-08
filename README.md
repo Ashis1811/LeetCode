@@ -54,6 +54,7 @@ Daily Coding Challenge
 | ------- |
 | [0072-edit-distance](https://github.com/Ashis1811/LeetCode/tree/master/0072-edit-distance) |
 | [1250-longest-common-subsequence](https://github.com/Ashis1811/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ashis1811/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Number Theory
 |  |
 | ------- |
@@ -66,4 +67,8 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Ashis1811/LeetCode/tree/master/0338-counting-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ashis1811/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->

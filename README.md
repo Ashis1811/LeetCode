@@ -13,6 +13,7 @@ Daily Coding Challenge
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ashis1811/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1397-search-suggestions-system](https://github.com/Ashis1811/LeetCode/tree/master/1397-search-suggestions-system) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ashis1811/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3483-alternating-groups-ii](https://github.com/Ashis1811/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ashis1811/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/Ashis1811/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Queue
 |  |
 | ------- |

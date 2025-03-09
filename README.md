@@ -11,6 +11,7 @@ Daily Coding Challenge
 | [0494-target-sum](https://github.com/Ashis1811/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ashis1811/LeetCode/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ashis1811/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1397-search-suggestions-system](https://github.com/Ashis1811/LeetCode/tree/master/1397-search-suggestions-system) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ashis1811/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -56,6 +57,7 @@ Daily Coding Challenge
 | [0072-edit-distance](https://github.com/Ashis1811/LeetCode/tree/master/0072-edit-distance) |
 | [0649-dota2-senate](https://github.com/Ashis1811/LeetCode/tree/master/0649-dota2-senate) |
 | [1250-longest-common-subsequence](https://github.com/Ashis1811/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1397-search-suggestions-system](https://github.com/Ashis1811/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ashis1811/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Number Theory
 |  |
@@ -80,4 +82,20 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Ashis1811/LeetCode/tree/master/0649-dota2-senate) |
+## Binary Search
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/Ashis1811/LeetCode/tree/master/1397-search-suggestions-system) |
+## Trie
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/Ashis1811/LeetCode/tree/master/1397-search-suggestions-system) |
+## Sorting
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/Ashis1811/LeetCode/tree/master/1397-search-suggestions-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/Ashis1811/LeetCode/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->

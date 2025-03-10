@@ -13,7 +13,6 @@ public:
 
         for (int right = 0; right < word.size(); right++) {
             char ch = word[right];
-
             
             if (isVowel(ch)) {
                 vowelFreq[ch]++;
@@ -23,19 +22,23 @@ public:
 
             while (vowelFreq.size() == 5 && consonant >= k) {
                 ans += word.size() - right;
-                if (isVowel(word[left])) {
+                if (isVowel(word[left])) 
+                {
                     vowelFreq[word[left]]--;
-                    if (vowelFreq[word[left]] == 0) {
+                    if (vowelFreq[word[left]] == 0) 
+                    {
                         vowelFreq.erase(word[left]);
                     }
-                } else {
-                    consonant--;  // Reduce consonant count
+                } 
+                else 
+                {
+                    consonant--;  
                 }
-                left++;  // Move left pointer
+                left++; 
             }
 
-            }
-            return ans;
+        }
+        return ans;
     }
     long long countOfSubstrings(string word, int k) {
         

@@ -18,6 +18,7 @@ Daily Coding Challenge
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashis1811/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ashis1811/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/Ashis1811/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Ashis1811/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +107,7 @@ Daily Coding Challenge
 | ------- |
 | [1397-search-suggestions-system](https://github.com/Ashis1811/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashis1811/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/Ashis1811/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Trie
 |  |
 | ------- |
@@ -142,4 +144,8 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashis1811/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [3643-zero-array-transformation-ii](https://github.com/Ashis1811/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->

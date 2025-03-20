@@ -29,28 +29,55 @@
 
 //=============================== Tabulation Approach ===============================
 
+// class Solution {
+// public:
+
+//     int maxProfit(vector<int>& prices) {
+//         int n = prices.size();
+//         vector<vector<int>> dp(n + 2, vector<int>(2, 0));
+//         for(int ind = n - 1; ind >= 0; ind--)
+//         {
+//             for(int buy = 0; buy <= 1; buy++)
+//             {
+//                 int profit = 0;
+//                 if(buy)
+//                 {
+//                     profit = max(- prices[ind] + dp[ind + 1][0], 0 + dp[ind + 1][1]);
+//                 }
+//                 else
+//                 {
+//                     profit = max(prices[ind] + dp[ind + 2][1], 0 + dp[ind + 1][0]);
+//                 }
+//                 dp[ind][buy] = profit;
+//             }
+//         }
+//         return dp[0][1];
+//     }
+// };
+
+
+//================================ Space Optimization ==========================
+
 class Solution {
 public:
-
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
-        vector<vector<int>> dp(n + 2, vector<int>(2, 0));
-        for(int ind = n - 1; ind >= 0; ind--)
-        {
-            for(int buy = 0; buy <= 1; buy++)
-            {
-                int profit = 0;
-                if(buy)
-                {
-                    profit = max(- prices[ind] + dp[ind + 1][0], 0 + dp[ind + 1][1]);
+        if (n == 0) return 0;
+        
+        vector<int> prev(2, 0), curr(2, 0), next(2, 0);
+        
+        for (int ind = n - 1; ind >= 0; ind--) {
+            for (int buy = 0; buy <= 1; buy++) {
+                if (buy) {
+                    curr[buy] = max(-prices[ind] + prev[0], prev[1]);
+                } else {
+                    curr[buy] = max(prices[ind] + next[1], prev[0]);  
                 }
-                else
-                {
-                    profit = max(prices[ind] + dp[ind + 2][1], 0 + dp[ind + 1][0]);
-                }
-                dp[ind][buy] = profit;
             }
+            next = prev;
+            prev = curr;
         }
-        return dp[0][1];
+        
+        return prev[1];
     }
 };

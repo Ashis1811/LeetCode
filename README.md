@@ -27,6 +27,7 @@ Daily Coding Challenge
 | [1129-longest-string-chain](https://github.com/Ashis1811/LeetCode/tree/master/1129-longest-string-chain) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ashis1811/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/Ashis1811/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Ashis1811/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashis1811/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ashis1811/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ashis1811/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -70,6 +71,7 @@ Daily Coding Challenge
 | [1129-longest-string-chain](https://github.com/Ashis1811/LeetCode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Ashis1811/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ashis1811/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Ashis1811/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ashis1811/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Breadth-First Search
 |  |
@@ -102,6 +104,7 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Ashis1811/LeetCode/tree/master/0085-maximal-rectangle) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Ashis1811/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashis1811/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ashis1811/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Combinatorics

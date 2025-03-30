@@ -88,6 +88,7 @@ Daily Coding Challenge
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Ashis1811/LeetCode/tree/master/0768-partition-labels) |
 | [1129-longest-string-chain](https://github.com/Ashis1811/LeetCode/tree/master/1129-longest-string-chain) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ashis1811/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ashis1811/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -125,6 +126,7 @@ Daily Coding Challenge
 | [0516-longest-palindromic-subsequence](https://github.com/Ashis1811/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ashis1811/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/Ashis1811/LeetCode/tree/master/0649-dota2-senate) |
+| [0768-partition-labels](https://github.com/Ashis1811/LeetCode/tree/master/0768-partition-labels) |
 | [1129-longest-string-chain](https://github.com/Ashis1811/LeetCode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Ashis1811/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ashis1811/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -148,6 +150,7 @@ Daily Coding Challenge
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ashis1811/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0649-dota2-senate](https://github.com/Ashis1811/LeetCode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ashis1811/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0768-partition-labels](https://github.com/Ashis1811/LeetCode/tree/master/0768-partition-labels) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Ashis1811/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Bit Manipulation
 |  |
@@ -261,6 +264,7 @@ Daily Coding Challenge
 ## Two Pointers
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Ashis1811/LeetCode/tree/master/0768-partition-labels) |
 | [1129-longest-string-chain](https://github.com/Ashis1811/LeetCode/tree/master/1129-longest-string-chain) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashis1811/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Recursion

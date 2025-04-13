@@ -119,6 +119,7 @@ Daily Coding Challenge
 | [0062-unique-paths](https://github.com/Ashis1811/LeetCode/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/Ashis1811/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ashis1811/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/Ashis1811/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashis1811/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ashis1811/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2998-count-symmetric-integers](https://github.com/Ashis1811/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -300,6 +301,7 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/Ashis1811/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
+| [2050-count-good-numbers](https://github.com/Ashis1811/LeetCode/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
 | ------- |

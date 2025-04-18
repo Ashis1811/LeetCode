@@ -152,6 +152,7 @@ Daily Coding Challenge
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Ashis1811/LeetCode/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Ashis1811/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ashis1811/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ashis1811/LeetCode/tree/master/0132-palindrome-partitioning-ii) |

@@ -30,6 +30,7 @@ Daily Coding Challenge
 | [1121-partition-array-for-maximum-sum](https://github.com/Ashis1811/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Ashis1811/LeetCode/tree/master/1129-longest-string-chain) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ashis1811/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/Ashis1811/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ashis1811/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/Ashis1811/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ashis1811/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |

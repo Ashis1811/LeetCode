@@ -106,6 +106,7 @@ Daily Coding Challenge
 | [1250-longest-common-subsequence](https://github.com/Ashis1811/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ashis1811/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ashis1811/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/Ashis1811/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/Ashis1811/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ashis1811/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ashis1811/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |

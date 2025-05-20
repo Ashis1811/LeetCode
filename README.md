@@ -6,6 +6,7 @@ Daily Coding Challenge
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Ashis1811/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Ashis1811/LeetCode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Ashis1811/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashis1811/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -79,6 +80,7 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ashis1811/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Ashis1811/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Ashis1811/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Ashis1811/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Ashis1811/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -174,6 +176,7 @@ Daily Coding Challenge
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Ashis1811/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Ashis1811/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ashis1811/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashis1811/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |

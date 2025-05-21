@@ -199,6 +199,7 @@ Daily Coding Challenge
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ashis1811/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ashis1811/LeetCode/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Ashis1811/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ashis1811/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -316,6 +317,7 @@ Daily Coding Challenge
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ashis1811/LeetCode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Ashis1811/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0739-daily-temperatures](https://github.com/Ashis1811/LeetCode/tree/master/0739-daily-temperatures) |

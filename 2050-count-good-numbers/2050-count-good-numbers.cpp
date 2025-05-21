@@ -1,21 +1,25 @@
 class Solution {
 public:
-    const int mod = 1e9 + 7;
-    int findPow(long long a, long long b)
+    const int MOD = 1e9 + 7;
+    long long power(long long base, long long exp)
     {
-        if(b == 0)
+        long long ans = 1;
+        base %= MOD;
+        while(exp > 0)
         {
-            return 1;
-        }
-        long long half = findPow(a, b/2);
-        long long ans = (half * half) % mod;
-        if(b % 2 == 1)
-        {
-            ans = (ans * a) % mod;
+            if(exp % 2 == 1)
+            {
+                ans = (ans * base) % MOD;
+            }
+            base = (base * base) % MOD;
+            exp /= 2;
         }
         return ans;
     }
     int countGoodNumbers(long long n) {
-        return (long long) findPow(5, (n + 1) / 2) * findPow(4, n / 2) % mod;
+        long long even = (n + 1) / 2;
+        long long odd = n / 2;
+        long long res = (power(5, even) * power(4, odd)) % MOD;
+        return(int) res;
     }
 };

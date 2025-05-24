@@ -108,6 +108,7 @@ Daily Coding Challenge
 | [0516-longest-palindromic-subsequence](https://github.com/Ashis1811/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Ashis1811/LeetCode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ashis1811/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Ashis1811/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ashis1811/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0806-domino-and-tromino-tiling](https://github.com/Ashis1811/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Ashis1811/LeetCode/tree/master/0868-push-dominoes) |
@@ -212,6 +213,7 @@ Daily Coding Challenge
 | [0516-longest-palindromic-subsequence](https://github.com/Ashis1811/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ashis1811/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/Ashis1811/LeetCode/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/Ashis1811/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Ashis1811/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Ashis1811/LeetCode/tree/master/0868-push-dominoes) |
 | [1129-longest-string-chain](https://github.com/Ashis1811/LeetCode/tree/master/1129-longest-string-chain) |
@@ -242,6 +244,7 @@ Daily Coding Challenge
 | [0435-non-overlapping-intervals](https://github.com/Ashis1811/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ashis1811/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0649-dota2-senate](https://github.com/Ashis1811/LeetCode/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/Ashis1811/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ashis1811/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/Ashis1811/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Ashis1811/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -334,6 +337,7 @@ Daily Coding Challenge
 | [0020-valid-parentheses](https://github.com/Ashis1811/LeetCode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Ashis1811/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/Ashis1811/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Ashis1811/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Ashis1811/LeetCode/tree/master/0937-online-stock-span) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ashis1811/LeetCode/tree/master/1197-parsing-a-boolean-expression) |

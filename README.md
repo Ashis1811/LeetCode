@@ -344,6 +344,7 @@ Daily Coding Challenge
 | [0020-valid-parentheses](https://github.com/Ashis1811/LeetCode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Ashis1811/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/Ashis1811/LeetCode/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/Ashis1811/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Ashis1811/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Ashis1811/LeetCode/tree/master/0937-online-stock-span) |
@@ -359,6 +360,7 @@ Daily Coding Challenge
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Ashis1811/LeetCode/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/Ashis1811/LeetCode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |

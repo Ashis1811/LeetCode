@@ -30,6 +30,7 @@ Daily Coding Challenge
 | [0518-coin-change-ii](https://github.com/Ashis1811/LeetCode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Ashis1811/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashis1811/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Ashis1811/LeetCode/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ashis1811/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Ashis1811/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Ashis1811/LeetCode/tree/master/0739-daily-temperatures) |
@@ -162,6 +163,7 @@ Daily Coding Challenge
 | [0424-longest-repeating-character-replacement](https://github.com/Ashis1811/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Ashis1811/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashis1811/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Ashis1811/LeetCode/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/Ashis1811/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Ashis1811/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1129-longest-string-chain](https://github.com/Ashis1811/LeetCode/tree/master/1129-longest-string-chain) |
@@ -275,6 +277,7 @@ Daily Coding Challenge
 | [0409-longest-palindrome](https://github.com/Ashis1811/LeetCode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Ashis1811/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ashis1811/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/Ashis1811/LeetCode/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Ashis1811/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Ashis1811/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ashis1811/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -346,6 +349,7 @@ Daily Coding Challenge
 | [0368-largest-divisible-subset](https://github.com/Ashis1811/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Ashis1811/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ashis1811/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/Ashis1811/LeetCode/tree/master/0621-task-scheduler) |
 | [1129-longest-string-chain](https://github.com/Ashis1811/LeetCode/tree/master/1129-longest-string-chain) |
 | [1397-search-suggestions-system](https://github.com/Ashis1811/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashis1811/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -363,6 +367,7 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ashis1811/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/Ashis1811/LeetCode/tree/master/0621-task-scheduler) |
 | [1397-search-suggestions-system](https://github.com/Ashis1811/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashis1811/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Ashis1811/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -400,6 +405,7 @@ Daily Coding Challenge
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Ashis1811/LeetCode/tree/master/0621-task-scheduler) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ashis1811/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ashis1811/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ashis1811/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |

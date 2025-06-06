@@ -143,6 +143,7 @@ Daily Coding Challenge
 | ------- |
 | [0322-coin-change](https://github.com/Ashis1811/LeetCode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Ashis1811/LeetCode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Ashis1811/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0945-snakes-and-ladders](https://github.com/Ashis1811/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ashis1811/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Ashis1811/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -431,6 +432,7 @@ Daily Coding Challenge
 ## Union Find
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/Ashis1811/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Ashis1811/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashis1811/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Ashis1811/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
@@ -438,6 +440,7 @@ Daily Coding Challenge
 ## Graph
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/Ashis1811/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Ashis1811/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ashis1811/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Ashis1811/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -454,6 +457,7 @@ Daily Coding Challenge
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0733-flood-fill](https://github.com/Ashis1811/LeetCode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Ashis1811/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ashis1811/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Ashis1811/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/Ashis1811/LeetCode/tree/master/2793-count-the-number-of-complete-components) |

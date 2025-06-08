@@ -143,6 +143,7 @@ Daily Coding Challenge
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Ashis1811/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Ashis1811/LeetCode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Ashis1811/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Ashis1811/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -454,6 +455,7 @@ Daily Coding Challenge
 ## Graph
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Ashis1811/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/Ashis1811/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Ashis1811/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ashis1811/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -464,12 +466,14 @@ Daily Coding Challenge
 ## Topological Sort
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Ashis1811/LeetCode/tree/master/0210-course-schedule-ii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ashis1811/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0210-course-schedule-ii](https://github.com/Ashis1811/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/Ashis1811/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0733-flood-fill](https://github.com/Ashis1811/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Ashis1811/LeetCode/tree/master/0801-is-graph-bipartite) |

@@ -355,6 +355,7 @@ Daily Coding Challenge
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Ashis1811/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1397-search-suggestions-system](https://github.com/Ashis1811/LeetCode/tree/master/1397-search-suggestions-system) |
 ## Sorting
 |  |
@@ -469,6 +470,7 @@ Daily Coding Challenge
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/Ashis1811/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0733-flood-fill](https://github.com/Ashis1811/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Ashis1811/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ashis1811/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |

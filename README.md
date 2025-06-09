@@ -35,6 +35,7 @@ Daily Coding Challenge
 | [0733-flood-fill](https://github.com/Ashis1811/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Ashis1811/LeetCode/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/Ashis1811/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0831-largest-sum-of-averages](https://github.com/Ashis1811/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [0876-hand-of-straights](https://github.com/Ashis1811/LeetCode/tree/master/0876-hand-of-straights) |
 | [0912-random-pick-with-weight](https://github.com/Ashis1811/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0945-snakes-and-ladders](https://github.com/Ashis1811/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -123,6 +124,7 @@ Daily Coding Challenge
 | [0678-valid-parenthesis-string](https://github.com/Ashis1811/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ashis1811/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0806-domino-and-tromino-tiling](https://github.com/Ashis1811/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
+| [0831-largest-sum-of-averages](https://github.com/Ashis1811/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [0868-push-dominoes](https://github.com/Ashis1811/LeetCode/tree/master/0868-push-dominoes) |
 | [0967-minimum-falling-path-sum](https://github.com/Ashis1811/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ashis1811/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
@@ -437,6 +439,7 @@ Daily Coding Challenge
 | ------- |
 | [0525-contiguous-array](https://github.com/Ashis1811/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashis1811/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0831-largest-sum-of-averages](https://github.com/Ashis1811/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [0912-random-pick-with-weight](https://github.com/Ashis1811/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ashis1811/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ashis1811/LeetCode/tree/master/1046-max-consecutive-ones-iii) |

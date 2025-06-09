@@ -357,6 +357,7 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Ashis1811/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Ashis1811/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1397-search-suggestions-system](https://github.com/Ashis1811/LeetCode/tree/master/1397-search-suggestions-system) |
 ## Sorting
 |  |

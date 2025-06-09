@@ -502,6 +502,7 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ashis1811/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Ashis1811/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ashis1811/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/Ashis1811/LeetCode/tree/master/2050-count-good-numbers) |
 ## Tree
@@ -535,6 +536,7 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ashis1811/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Ashis1811/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ashis1811/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ashis1811/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer

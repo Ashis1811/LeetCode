@@ -145,6 +145,7 @@ Daily Coding Challenge
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ashis1811/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/Ashis1811/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Ashis1811/LeetCode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Ashis1811/LeetCode/tree/master/0733-flood-fill) |
@@ -475,6 +476,7 @@ Daily Coding Challenge
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ashis1811/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/Ashis1811/LeetCode/tree/master/0210-course-schedule-ii) |
@@ -505,6 +507,7 @@ Daily Coding Challenge
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ashis1811/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ashis1811/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -514,6 +517,7 @@ Daily Coding Challenge
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ashis1811/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ashis1811/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |

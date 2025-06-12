@@ -7,6 +7,7 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashis1811/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/Ashis1811/LeetCode/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/Ashis1811/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ashis1811/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ashis1811/LeetCode/tree/master/0075-sort-colors) |
@@ -100,6 +101,7 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ashis1811/LeetCode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Ashis1811/LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Ashis1811/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ashis1811/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Ashis1811/LeetCode/tree/master/0072-edit-distance) |
@@ -293,6 +295,7 @@ Daily Coding Challenge
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ashis1811/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashis1811/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Ashis1811/LeetCode/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/Ashis1811/LeetCode/tree/master/0409-longest-palindrome) |

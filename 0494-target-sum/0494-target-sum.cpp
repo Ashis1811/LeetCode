@@ -1,19 +1,18 @@
 class Solution {
 public:
-    int helper(vector<int>& nums, int ind, int curr_sum, int target, unordered_map<string, int>& dp)
-    {
-        if(ind == nums.size())
-        {
-            return (curr_sum == target) ? 1 : 0;
-        }
-        string key = to_string(ind) + "_" + to_string(curr_sum);
-        if(dp.find(key) != dp.end()) return dp[key];
-        int add = helper(nums, ind + 1, curr_sum + nums[ind], target, dp);
-        int sub = helper(nums, ind + 1, curr_sum - nums[ind], target, dp);
-        return dp[key] = add + sub;
-    }
     int findTargetSumWays(vector<int>& nums, int target) {
-        unordered_map<string, int> dp;
-        return helper(nums, 0, 0, target, dp);
+        int sum = accumulate(nums.begin(), nums.end(), 0);
+        if((sum + target) % 2 != 0 || sum < abs(target)) return 0;
+        int p = (sum + target) / 2;
+        vector<int> dp(p + 1, 0);
+        dp[0] = 1;
+        for(auto num : nums)
+        {
+            for(int i = p; i >= num; i--)
+            {
+                dp[i] += dp[i - num];
+            }
+        }
+        return dp[p];
     }
 };

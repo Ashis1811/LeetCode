@@ -404,6 +404,7 @@ Daily Coding Challenge
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ashis1811/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0621-task-scheduler](https://github.com/Ashis1811/LeetCode/tree/master/0621-task-scheduler) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Ashis1811/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1397-search-suggestions-system](https://github.com/Ashis1811/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashis1811/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Ashis1811/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -436,10 +437,12 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ashis1811/LeetCode/tree/master/0155-min-stack) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Ashis1811/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Ashis1811/LeetCode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Ashis1811/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Ashis1811/LeetCode/tree/master/0937-online-stock-span) |
 ## Counting
 |  |
@@ -529,6 +532,7 @@ Daily Coding Challenge
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ashis1811/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Ashis1811/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ashis1811/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ashis1811/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Ashis1811/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -539,6 +543,7 @@ Daily Coding Challenge
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ashis1811/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Ashis1811/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ashis1811/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Enumeration
 |  |
@@ -598,4 +603,8 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/Ashis1811/LeetCode/tree/master/0912-random-pick-with-weight) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Ashis1811/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->

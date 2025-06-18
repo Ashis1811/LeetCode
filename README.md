@@ -11,6 +11,7 @@ Daily Coding Challenge
 | [0063-unique-paths-ii](https://github.com/Ashis1811/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ashis1811/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ashis1811/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Ashis1811/LeetCode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/Ashis1811/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashis1811/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashis1811/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -170,6 +171,7 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ashis1811/LeetCode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Ashis1811/LeetCode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Ashis1811/LeetCode/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ashis1811/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Hash Table
@@ -339,6 +341,7 @@ Daily Coding Challenge
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ashis1811/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ashis1811/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Ashis1811/LeetCode/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ashis1811/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |

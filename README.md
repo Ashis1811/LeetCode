@@ -208,6 +208,7 @@ Daily Coding Challenge
 | [2626-count-the-number-of-good-subarrays](https://github.com/Ashis1811/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Ashis1811/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ashis1811/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ashis1811/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ashis1811/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/Ashis1811/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Ashis1811/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -304,6 +305,7 @@ Daily Coding Challenge
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ashis1811/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Ashis1811/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Ashis1811/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ashis1811/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ashis1811/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Ashis1811/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ashis1811/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -345,6 +347,7 @@ Daily Coding Challenge
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ashis1811/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ashis1811/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ashis1811/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ashis1811/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ashis1811/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Ashis1811/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Bit Manipulation
@@ -426,6 +429,7 @@ Daily Coding Challenge
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ashis1811/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ashis1811/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Ashis1811/LeetCode/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ashis1811/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3647-zero-array-transformation-iii](https://github.com/Ashis1811/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Ashis1811/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
@@ -485,6 +489,7 @@ Daily Coding Challenge
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ashis1811/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ashis1811/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashis1811/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ashis1811/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ashis1811/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ashis1811/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ashis1811/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |

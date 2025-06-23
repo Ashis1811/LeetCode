@@ -157,6 +157,7 @@ Daily Coding Challenge
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Ashis1811/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ashis1811/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/Ashis1811/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Ashis1811/LeetCode/tree/master/0322-coin-change) |
@@ -537,6 +538,7 @@ Daily Coding Challenge
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Ashis1811/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ashis1811/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -572,6 +574,7 @@ Daily Coding Challenge
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Ashis1811/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ashis1811/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -584,6 +587,7 @@ Daily Coding Challenge
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Ashis1811/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ashis1811/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashis1811/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |

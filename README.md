@@ -42,6 +42,7 @@ Daily Coding Challenge
 | [0797-rabbits-in-forest](https://github.com/Ashis1811/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0831-largest-sum-of-averages](https://github.com/Ashis1811/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [0876-hand-of-straights](https://github.com/Ashis1811/LeetCode/tree/master/0876-hand-of-straights) |
+| [0907-koko-eating-bananas](https://github.com/Ashis1811/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/Ashis1811/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0945-snakes-and-ladders](https://github.com/Ashis1811/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ashis1811/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -397,6 +398,7 @@ Daily Coding Challenge
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashis1811/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Ashis1811/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0907-koko-eating-bananas](https://github.com/Ashis1811/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/Ashis1811/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ashis1811/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ashis1811/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |

@@ -2,17 +2,17 @@ class Solution {
 public:
     int jump(vector<int>& nums) {
         int n = nums.size();
+        int count = 0, move = 0, last = 0;
         if(n < 2) return 0;
-        int move = 0, count = 0, end = 0;
-         for(int i = 0; i < n - 1; i++)
-         {
+        for(int i = 0; i < n - 1; i++)
+        {
             move = max(move, i + nums[i]);
-            if(i == end)
+            if(i == last)
             {
-                end = move;
-                ++count;
+                last = move;
+                count++;
             }
-         }
+        }
         return count;
     }
 };

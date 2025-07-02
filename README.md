@@ -52,6 +52,7 @@ Daily Coding Challenge
 | [1046-max-consecutive-ones-iii](https://github.com/Ashis1811/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ashis1811/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ashis1811/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1127-last-stone-weight](https://github.com/Ashis1811/LeetCode/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/Ashis1811/LeetCode/tree/master/1129-longest-string-chain) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ashis1811/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Ashis1811/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -469,6 +470,7 @@ Daily Coding Challenge
 | [0621-task-scheduler](https://github.com/Ashis1811/LeetCode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ashis1811/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Ashis1811/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1127-last-stone-weight](https://github.com/Ashis1811/LeetCode/tree/master/1127-last-stone-weight) |
 | [1397-search-suggestions-system](https://github.com/Ashis1811/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ashis1811/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashis1811/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |

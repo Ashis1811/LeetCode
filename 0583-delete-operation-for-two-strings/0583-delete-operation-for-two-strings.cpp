@@ -1,76 +1,26 @@
-
-//========================= Tabulation Approach ======================
-
-// class Solution {
-// public:
-//     int helper(string word1, string word2)
-//     {
-//         int m = word1.size();
-//         int n = word2.size();
-//         vector<vector<int>> dp(m + 1, vector<int>(n + 1, -1));
-//         for(int i = 0; i <= m; i++)
-//         {
-//             dp[i][0] = 0;
-//         }
-//         for(int j = 0; j <= n; j++)
-//         {
-//             dp[0][j] = 0;
-//         }
-//         for(int i = 1; i <= m; i++)
-//         {
-//             for(int j = 1; j <= n; j++)
-//             {
-//                 if(word1[i - 1] == word2[j - 1])
-//                 {
-//                     dp[i][j] = 1 + dp[i - 1][j - 1];
-//                 }
-//                 else
-//                 {
-//                     dp[i][j] = max(dp[i - 1][j], dp[i][j - 1]);
-//                 }
-//             }
-//         }
-//         return dp[m][n];
-//     }
-//     int minDistance(string word1, string word2) {
-//         int m = word1.size();
-//         int n = word2.size();
-//        int k = helper(word1, word2);
-//        return (m - k) + (n - k);
-//     }
-// };
-
-
-//========================= Space Optimization ======================
 class Solution {
 public:
-    int helper(string word1, string word2)
+    int helper(int i, int j, string word1, string word2, vector<vector<int>>& dp)
     {
-        int m = word1.size();
-        int n = word2.size();
-        vector<int> prev(n + 1, 0), curr(n + 1, 0);
-
-        for(int i = 1; i <= m; i++)
+        if(i == word1.size()) return word2.size() - j;
+        if(j == word2.size()) return word1.size() - i;
+        if(dp[i][j] != -1) return dp[i][j];
+        if(word1[i] == word2[j])
         {
-            for(int j = 1; j <= n; j++)
-            {
-                if(word1[i - 1] == word2[j - 1])
-                {
-                    curr[j] = 1 + prev[j - 1];
-                }
-                else
-                {
-                    curr[j] = max(prev[j], curr[j - 1]);
-                }
-            }
-            prev = curr;
+            return dp[i][j] = helper(i + 1, j + 1, word1, word2, dp);
         }
-        return prev[n];
+        else
+        {
+            int del1 = 1 + helper(i + 1, j, word1, word2, dp);
+            int del2 = 1 + helper(i, j + 1, word1, word2, dp);
+            return dp[i][j] = min(del1, del2);
+        }
     }
     int minDistance(string word1, string word2) {
         int m = word1.size();
         int n = word2.size();
-       int k = helper(word1, word2);
-       return (m - k) + (n - k);
+        vector<vector<int>> dp(m, vector<int>(n, -1));
+        return helper(0, 0, word1, word2, dp);
+        
     }
 };

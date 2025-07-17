@@ -652,6 +652,7 @@ Daily Coding Challenge
 | [0908-middle-of-the-linked-list](https://github.com/Ashis1811/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/Ashis1811/LeetCode/tree/master/1129-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ashis1811/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ashis1811/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ashis1811/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashis1811/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashis1811/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -716,6 +717,7 @@ Daily Coding Challenge
 | [0328-odd-even-linked-list](https://github.com/Ashis1811/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ashis1811/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ashis1811/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ashis1811/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |

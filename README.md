@@ -77,6 +77,7 @@ Daily Coding Challenge
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ashis1811/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ashis1811/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1559-cherry-pickup-ii](https://github.com/Ashis1811/LeetCode/tree/master/1559-cherry-pickup-ii) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ashis1811/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ashis1811/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Ashis1811/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Ashis1811/LeetCode/tree/master/1656-count-good-triplets) |
@@ -522,6 +523,7 @@ Daily Coding Challenge
 | [1397-search-suggestions-system](https://github.com/Ashis1811/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Ashis1811/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ashis1811/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ashis1811/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ashis1811/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ashis1811/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashis1811/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -552,6 +554,7 @@ Daily Coding Challenge
 | [1397-search-suggestions-system](https://github.com/Ashis1811/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Ashis1811/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ashis1811/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ashis1811/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ashis1811/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/Ashis1811/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashis1811/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |

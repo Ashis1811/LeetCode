@@ -107,6 +107,7 @@ Daily Coding Challenge
 | [2478-longest-nice-subarray](https://github.com/Ashis1811/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/Ashis1811/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashis1811/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ashis1811/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Ashis1811/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashis1811/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashis1811/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -447,6 +448,7 @@ Daily Coding Challenge
 | [2308-divide-array-into-equal-pairs](https://github.com/Ashis1811/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ashis1811/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/Ashis1811/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ashis1811/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ashis1811/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ashis1811/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ashis1811/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -464,6 +466,7 @@ Daily Coding Challenge
 | [1813-maximum-erasure-value](https://github.com/Ashis1811/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ashis1811/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Ashis1811/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ashis1811/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Ashis1811/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Ashis1811/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ashis1811/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -498,6 +501,7 @@ Daily Coding Challenge
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ashis1811/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ashis1811/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ashis1811/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ashis1811/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashis1811/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Ashis1811/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Ashis1811/LeetCode/tree/master/2690-house-robber-iv) |

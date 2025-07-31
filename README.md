@@ -49,6 +49,7 @@ Daily Coding Challenge
 | [0878-shifting-letters](https://github.com/Ashis1811/LeetCode/tree/master/0878-shifting-letters) |
 | [0907-koko-eating-bananas](https://github.com/Ashis1811/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/Ashis1811/LeetCode/tree/master/0912-random-pick-with-weight) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Ashis1811/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ashis1811/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/Ashis1811/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ashis1811/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -181,6 +182,7 @@ Daily Coding Challenge
 | [0806-domino-and-tromino-tiling](https://github.com/Ashis1811/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0831-largest-sum-of-averages](https://github.com/Ashis1811/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [0868-push-dominoes](https://github.com/Ashis1811/LeetCode/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Ashis1811/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ashis1811/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Ashis1811/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ashis1811/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
@@ -446,6 +448,7 @@ Daily Coding Challenge
 | [0078-subsets](https://github.com/Ashis1811/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ashis1811/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Ashis1811/LeetCode/tree/master/0338-counting-bits) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Ashis1811/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ashis1811/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ashis1811/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ashis1811/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |

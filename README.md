@@ -303,6 +303,7 @@ Daily Coding Challenge
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ashis1811/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Ashis1811/LeetCode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ashis1811/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1879-maximum-score-from-removing-stones](https://github.com/Ashis1811/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ashis1811/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Ashis1811/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashis1811/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -428,6 +429,7 @@ Daily Coding Challenge
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ashis1811/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ashis1811/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ashis1811/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1879-maximum-score-from-removing-stones](https://github.com/Ashis1811/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ashis1811/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ashis1811/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ashis1811/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -579,6 +581,7 @@ Daily Coding Challenge
 | [1464-reduce-array-size-to-the-half](https://github.com/Ashis1811/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ashis1811/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ashis1811/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1879-maximum-score-from-removing-stones](https://github.com/Ashis1811/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ashis1811/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/Ashis1811/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashis1811/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |

@@ -304,6 +304,7 @@ Daily Coding Challenge
 | ------- |
 | [0050-powx-n](https://github.com/Ashis1811/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ashis1811/LeetCode/tree/master/0062-unique-paths) |
+| [0231-power-of-two](https://github.com/Ashis1811/LeetCode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/Ashis1811/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Ashis1811/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Ashis1811/LeetCode/tree/master/0826-soup-servings) |
@@ -467,6 +468,7 @@ Daily Coding Challenge
 | ------- |
 | [0078-subsets](https://github.com/Ashis1811/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ashis1811/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Ashis1811/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Ashis1811/LeetCode/tree/master/0338-counting-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ashis1811/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ashis1811/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -761,6 +763,7 @@ Daily Coding Challenge
 | ------- |
 | [0050-powx-n](https://github.com/Ashis1811/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Ashis1811/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Ashis1811/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ashis1811/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ashis1811/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/Ashis1811/LeetCode/tree/master/2050-count-good-numbers) |

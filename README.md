@@ -264,6 +264,7 @@ Daily Coding Challenge
 | [0768-partition-labels](https://github.com/Ashis1811/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Ashis1811/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/Ashis1811/LeetCode/tree/master/0876-hand-of-straights) |
+| [0900-reordered-power-of-2](https://github.com/Ashis1811/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Ashis1811/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ashis1811/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ashis1811/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -308,6 +309,7 @@ Daily Coding Challenge
 | [0368-largest-divisible-subset](https://github.com/Ashis1811/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Ashis1811/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Ashis1811/LeetCode/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/Ashis1811/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0912-random-pick-with-weight](https://github.com/Ashis1811/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/Ashis1811/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ashis1811/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -561,6 +563,7 @@ Daily Coding Challenge
 | [0621-task-scheduler](https://github.com/Ashis1811/LeetCode/tree/master/0621-task-scheduler) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Ashis1811/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0876-hand-of-straights](https://github.com/Ashis1811/LeetCode/tree/master/0876-hand-of-straights) |
+| [0900-reordered-power-of-2](https://github.com/Ashis1811/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1014-k-closest-points-to-origin](https://github.com/Ashis1811/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1129-longest-string-chain](https://github.com/Ashis1811/LeetCode/tree/master/1129-longest-string-chain) |
 | [1397-search-suggestions-system](https://github.com/Ashis1811/LeetCode/tree/master/1397-search-suggestions-system) |
@@ -659,6 +662,7 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Ashis1811/LeetCode/tree/master/0621-task-scheduler) |
+| [0900-reordered-power-of-2](https://github.com/Ashis1811/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ashis1811/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ashis1811/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ashis1811/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -798,6 +802,7 @@ Daily Coding Challenge
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Ashis1811/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Ashis1811/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ashis1811/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ashis1811/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |

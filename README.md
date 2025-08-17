@@ -192,6 +192,7 @@ Daily Coding Challenge
 | [0806-domino-and-tromino-tiling](https://github.com/Ashis1811/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Ashis1811/LeetCode/tree/master/0826-soup-servings) |
 | [0831-largest-sum-of-averages](https://github.com/Ashis1811/LeetCode/tree/master/0831-largest-sum-of-averages) |
+| [0867-new-21-game](https://github.com/Ashis1811/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Ashis1811/LeetCode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ashis1811/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ashis1811/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -313,6 +314,7 @@ Daily Coding Challenge
 | [0368-largest-divisible-subset](https://github.com/Ashis1811/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Ashis1811/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Ashis1811/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Ashis1811/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Ashis1811/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0912-random-pick-with-weight](https://github.com/Ashis1811/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/Ashis1811/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -497,6 +499,7 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Ashis1811/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0867-new-21-game](https://github.com/Ashis1811/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Ashis1811/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ashis1811/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ashis1811/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -923,4 +926,5 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Ashis1811/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Ashis1811/LeetCode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->

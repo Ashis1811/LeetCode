@@ -40,6 +40,7 @@ Daily Coding Challenge
 | [0525-contiguous-array](https://github.com/Ashis1811/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashis1811/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Ashis1811/LeetCode/tree/master/0621-task-scheduler) |
+| [0679-24-game](https://github.com/Ashis1811/LeetCode/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ashis1811/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Ashis1811/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Ashis1811/LeetCode/tree/master/0739-daily-temperatures) |
@@ -247,6 +248,7 @@ Daily Coding Challenge
 | [0040-combination-sum-ii](https://github.com/Ashis1811/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Ashis1811/LeetCode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Ashis1811/LeetCode/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/Ashis1811/LeetCode/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ashis1811/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Ashis1811/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ashis1811/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -312,6 +314,7 @@ Daily Coding Challenge
 | [0326-power-of-three](https://github.com/Ashis1811/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ashis1811/LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Ashis1811/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/Ashis1811/LeetCode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Ashis1811/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Ashis1811/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Ashis1811/LeetCode/tree/master/0867-new-21-game) |

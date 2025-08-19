@@ -110,6 +110,7 @@ Daily Coding Challenge
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Ashis1811/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ashis1811/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ashis1811/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Ashis1811/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2478-longest-nice-subarray](https://github.com/Ashis1811/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/Ashis1811/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashis1811/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -331,6 +332,7 @@ Daily Coding Challenge
 | [2050-count-good-numbers](https://github.com/Ashis1811/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashis1811/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Ashis1811/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Ashis1811/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ashis1811/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ashis1811/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/Ashis1811/LeetCode/tree/master/2998-count-symmetric-integers) |

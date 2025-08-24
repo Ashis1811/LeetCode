@@ -83,6 +83,7 @@ Daily Coding Challenge
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ashis1811/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1559-cherry-pickup-ii](https://github.com/Ashis1811/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ashis1811/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashis1811/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ashis1811/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ashis1811/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/Ashis1811/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -207,6 +208,7 @@ Daily Coding Challenge
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ashis1811/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ashis1811/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/Ashis1811/LeetCode/tree/master/1559-cherry-pickup-ii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashis1811/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ashis1811/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ashis1811/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Ashis1811/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -514,6 +516,7 @@ Daily Coding Challenge
 | [1046-max-consecutive-ones-iii](https://github.com/Ashis1811/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ashis1811/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ashis1811/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashis1811/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Ashis1811/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ashis1811/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ashis1811/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |

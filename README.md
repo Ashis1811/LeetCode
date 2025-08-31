@@ -8,6 +8,7 @@ Daily Coding Challenge
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashis1811/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Ashis1811/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Ashis1811/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ashis1811/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ashis1811/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Ashis1811/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -255,6 +256,7 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ashis1811/LeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Ashis1811/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ashis1811/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ashis1811/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Ashis1811/LeetCode/tree/master/0078-subsets) |
@@ -268,6 +270,7 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ashis1811/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Ashis1811/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Ashis1811/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Ashis1811/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ashis1811/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -365,6 +368,7 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ashis1811/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Ashis1811/LeetCode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Ashis1811/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ashis1811/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Ashis1811/LeetCode/tree/master/0085-maximal-rectangle) |

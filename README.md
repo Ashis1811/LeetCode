@@ -120,6 +120,7 @@ Daily Coding Challenge
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Ashis1811/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ashis1811/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ashis1811/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2429-design-a-food-rating-system](https://github.com/Ashis1811/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ashis1811/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2478-longest-nice-subarray](https://github.com/Ashis1811/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/Ashis1811/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -314,6 +315,7 @@ Daily Coding Challenge
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ashis1811/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ashis1811/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ashis1811/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/Ashis1811/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Ashis1811/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ashis1811/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Ashis1811/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -453,6 +455,7 @@ Daily Coding Challenge
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ashis1811/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ashis1811/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ashis1811/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2429-design-a-food-rating-system](https://github.com/Ashis1811/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ashis1811/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ashis1811/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ashis1811/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -675,6 +678,7 @@ Daily Coding Challenge
 | [1879-maximum-score-from-removing-stones](https://github.com/Ashis1811/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ashis1811/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ashis1811/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2429-design-a-food-rating-system](https://github.com/Ashis1811/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Ashis1811/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashis1811/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Ashis1811/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -724,6 +728,7 @@ Daily Coding Challenge
 | [0155-min-stack](https://github.com/Ashis1811/LeetCode/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ashis1811/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Ashis1811/LeetCode/tree/master/0937-online-stock-span) |
+| [2429-design-a-food-rating-system](https://github.com/Ashis1811/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -938,6 +943,7 @@ Daily Coding Challenge
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ashis1811/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/Ashis1811/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ashis1811/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ashis1811/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Monotonic Queue

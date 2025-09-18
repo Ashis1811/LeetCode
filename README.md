@@ -329,6 +329,7 @@ Daily Coding Challenge
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Ashis1811/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ashis1811/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ashis1811/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/Ashis1811/LeetCode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ashis1811/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ashis1811/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ashis1811/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -685,6 +686,7 @@ Daily Coding Challenge
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ashis1811/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Ashis1811/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Ashis1811/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3678-design-task-manager](https://github.com/Ashis1811/LeetCode/tree/master/3678-design-task-manager) |
 ## Stack
 |  |
 | ------- |
@@ -729,6 +731,7 @@ Daily Coding Challenge
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ashis1811/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Ashis1811/LeetCode/tree/master/0937-online-stock-span) |
 | [2429-design-a-food-rating-system](https://github.com/Ashis1811/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Ashis1811/LeetCode/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
 | ------- |
@@ -944,6 +947,7 @@ Daily Coding Challenge
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ashis1811/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Ashis1811/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Ashis1811/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ashis1811/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ashis1811/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Monotonic Queue

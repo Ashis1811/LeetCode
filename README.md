@@ -175,6 +175,7 @@ Daily Coding Challenge
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Ashis1811/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ashis1811/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ashis1811/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Ashis1811/LeetCode/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -333,6 +334,7 @@ Daily Coding Challenge
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ashis1811/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ashis1811/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ashis1811/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3827-implement-router](https://github.com/Ashis1811/LeetCode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ashis1811/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -582,6 +584,7 @@ Daily Coding Challenge
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ashis1811/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Ashis1811/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ashis1811/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/Ashis1811/LeetCode/tree/master/3827-implement-router) |
 ## Binary Search
 |  |
 | ------- |
@@ -611,6 +614,7 @@ Daily Coding Challenge
 | [3643-zero-array-transformation-ii](https://github.com/Ashis1811/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ashis1811/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ashis1811/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Ashis1811/LeetCode/tree/master/3827-implement-router) |
 ## Trie
 |  |
 | ------- |
@@ -732,6 +736,7 @@ Daily Coding Challenge
 | [0937-online-stock-span](https://github.com/Ashis1811/LeetCode/tree/master/0937-online-stock-span) |
 | [2429-design-a-food-rating-system](https://github.com/Ashis1811/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Ashis1811/LeetCode/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/Ashis1811/LeetCode/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
@@ -950,6 +955,7 @@ Daily Coding Challenge
 | [3678-design-task-manager](https://github.com/Ashis1811/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ashis1811/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ashis1811/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Ashis1811/LeetCode/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |

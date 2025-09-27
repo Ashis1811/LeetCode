@@ -50,6 +50,7 @@ Daily Coding Challenge
 | [0739-daily-temperatures](https://github.com/Ashis1811/LeetCode/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/Ashis1811/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Ashis1811/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0830-largest-triangle-area](https://github.com/Ashis1811/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0831-largest-sum-of-averages](https://github.com/Ashis1811/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [0876-hand-of-straights](https://github.com/Ashis1811/LeetCode/tree/master/0876-hand-of-straights) |
 | [0878-shifting-letters](https://github.com/Ashis1811/LeetCode/tree/master/0878-shifting-letters) |
@@ -350,6 +351,7 @@ Daily Coding Challenge
 | [0679-24-game](https://github.com/Ashis1811/LeetCode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Ashis1811/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Ashis1811/LeetCode/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/Ashis1811/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Ashis1811/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Ashis1811/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0912-random-pick-with-weight](https://github.com/Ashis1811/LeetCode/tree/master/0912-random-pick-with-weight) |
@@ -998,6 +1000,7 @@ Daily Coding Challenge
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Ashis1811/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/Ashis1811/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ashis1811/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ashis1811/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |

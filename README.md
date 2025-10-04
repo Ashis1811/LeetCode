@@ -6,6 +6,7 @@ Daily Coding Challenge
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ashis1811/LeetCode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashis1811/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Ashis1811/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ashis1811/LeetCode/tree/master/0037-sudoku-solver) |
@@ -496,6 +497,7 @@ Daily Coding Challenge
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ashis1811/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Ashis1811/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashis1811/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Ashis1811/LeetCode/tree/master/0135-candy) |
@@ -840,6 +842,7 @@ Daily Coding Challenge
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ashis1811/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ashis1811/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Ashis1811/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ashis1811/LeetCode/tree/master/0075-sort-colors) |

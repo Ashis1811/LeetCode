@@ -50,6 +50,7 @@ Daily Coding Challenge
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ashis1811/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Ashis1811/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Ashis1811/LeetCode/tree/master/0739-daily-temperatures) |
+| [0794-swim-in-rising-water](https://github.com/Ashis1811/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Ashis1811/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Ashis1811/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0830-largest-triangle-area](https://github.com/Ashis1811/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -261,6 +262,7 @@ Daily Coding Challenge
 | [0322-coin-change](https://github.com/Ashis1811/LeetCode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ashis1811/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Ashis1811/LeetCode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Ashis1811/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Ashis1811/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ashis1811/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0945-snakes-and-ladders](https://github.com/Ashis1811/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -410,6 +412,7 @@ Daily Coding Challenge
 | [0417-pacific-atlantic-water-flow](https://github.com/Ashis1811/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Ashis1811/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/Ashis1811/LeetCode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Ashis1811/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Ashis1811/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Ashis1811/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ashis1811/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -605,6 +608,7 @@ Daily Coding Challenge
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashis1811/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Ashis1811/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0794-swim-in-rising-water](https://github.com/Ashis1811/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Ashis1811/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0907-koko-eating-bananas](https://github.com/Ashis1811/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/Ashis1811/LeetCode/tree/master/0912-random-pick-with-weight) |
@@ -687,6 +691,7 @@ Daily Coding Challenge
 | [0023-merge-k-sorted-lists](https://github.com/Ashis1811/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0621-task-scheduler](https://github.com/Ashis1811/LeetCode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ashis1811/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/Ashis1811/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Ashis1811/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ashis1811/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/Ashis1811/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -800,6 +805,7 @@ Daily Coding Challenge
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/Ashis1811/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Ashis1811/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Ashis1811/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashis1811/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -834,6 +840,7 @@ Daily Coding Challenge
 | [0417-pacific-atlantic-water-flow](https://github.com/Ashis1811/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/Ashis1811/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Ashis1811/LeetCode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Ashis1811/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Ashis1811/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ashis1811/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ashis1811/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |

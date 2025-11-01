@@ -11,27 +11,18 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        unordered_set<int> todelete(nums.begin(), nums.end());
-        ListNode* dummy = new ListNode(0);
-        dummy->next = head;
-         ListNode* prev = dummy;
-         ListNode* curr = head;
-        while(curr != nullptr)
-        {
-            if(todelete.count(curr->val) > 0)
-            {
-                prev->next = curr->next;
-                delete curr;
-                curr = prev->next;
+        unordered_set<int> mpp(nums.begin(), nums.end());
+
+        while (head && mpp.count(head->val))
+            head = head->next;
+
+        ListNode* curr = head;
+        while (curr && curr->next) {
+            while (curr->next && mpp.count(curr->next->val)) {
+                curr->next = curr->next->next;
             }
-            else
-            {
-                prev = curr;
-                curr = curr->next;
-            }
+            curr = curr->next;
         }
-        head = dummy->next;
-        delete dummy;
         return head;
     }
 };

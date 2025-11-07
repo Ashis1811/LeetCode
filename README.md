@@ -143,6 +143,7 @@ Daily Coding Challenge
 | [2529-range-product-queries-of-powers](https://github.com/Ashis1811/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashis1811/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashis1811/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Ashis1811/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Ashis1811/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Ashis1811/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/Ashis1811/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -579,6 +580,7 @@ Daily Coding Challenge
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ashis1811/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashis1811/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ashis1811/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Ashis1811/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2681-put-marbles-in-bags](https://github.com/Ashis1811/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/Ashis1811/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ashis1811/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -637,6 +639,7 @@ Daily Coding Challenge
 | [2478-longest-nice-subarray](https://github.com/Ashis1811/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ashis1811/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Ashis1811/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Ashis1811/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Ashis1811/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ashis1811/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Ashis1811/LeetCode/tree/master/3483-alternating-groups-ii) |
@@ -653,6 +656,7 @@ Daily Coding Challenge
 | [0649-dota2-senate](https://github.com/Ashis1811/LeetCode/tree/master/0649-dota2-senate) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ashis1811/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Ashis1811/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Ashis1811/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ashis1811/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3827-implement-router](https://github.com/Ashis1811/LeetCode/tree/master/3827-implement-router) |
 ## Binary Search
@@ -680,6 +684,7 @@ Daily Coding Challenge
 | [2280-count-good-triplets-in-an-array](https://github.com/Ashis1811/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ashis1811/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashis1811/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Ashis1811/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Ashis1811/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Ashis1811/LeetCode/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ashis1811/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -861,6 +866,7 @@ Daily Coding Challenge
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ashis1811/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/Ashis1811/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2529-range-product-queries-of-powers](https://github.com/Ashis1811/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Ashis1811/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ashis1811/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ashis1811/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Ashis1811/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |

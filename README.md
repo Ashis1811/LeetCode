@@ -151,6 +151,7 @@ Daily Coding Challenge
 | [2689-rearranging-fruits](https://github.com/Ashis1811/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/Ashis1811/LeetCode/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ashis1811/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Ashis1811/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Ashis1811/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Ashis1811/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ashis1811/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -421,6 +422,7 @@ Daily Coding Challenge
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ashis1811/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ashis1811/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ashis1811/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Ashis1811/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2998-count-symmetric-integers](https://github.com/Ashis1811/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Ashis1811/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Ashis1811/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -550,6 +552,7 @@ Daily Coding Challenge
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ashis1811/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ashis1811/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Ashis1811/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Ashis1811/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ashis1811/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy

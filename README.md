@@ -410,6 +410,7 @@ Daily Coding Challenge
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ashis1811/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/Ashis1811/LeetCode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ashis1811/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Ashis1811/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Ashis1811/LeetCode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Ashis1811/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Ashis1811/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
@@ -516,6 +517,7 @@ Daily Coding Challenge
 | [1397-search-suggestions-system](https://github.com/Ashis1811/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ashis1811/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ashis1811/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Ashis1811/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ashis1811/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Ashis1811/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ashis1811/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |

@@ -342,6 +342,7 @@ Daily Coding Challenge
 | [0078-subsets](https://github.com/Ashis1811/LeetCode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Ashis1811/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Ashis1811/LeetCode/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/Ashis1811/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ashis1811/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Ashis1811/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ashis1811/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -362,6 +363,7 @@ Daily Coding Challenge
 | [0525-contiguous-array](https://github.com/Ashis1811/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashis1811/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Ashis1811/LeetCode/tree/master/0621-task-scheduler) |
+| [0756-pyramid-transition-matrix](https://github.com/Ashis1811/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Ashis1811/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Ashis1811/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/Ashis1811/LeetCode/tree/master/0876-hand-of-straights) |
@@ -548,6 +550,7 @@ Daily Coding Challenge
 | [0583-delete-operation-for-two-strings](https://github.com/Ashis1811/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/Ashis1811/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Ashis1811/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0756-pyramid-transition-matrix](https://github.com/Ashis1811/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Ashis1811/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Ashis1811/LeetCode/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/Ashis1811/LeetCode/tree/master/0878-shifting-letters) |
@@ -678,6 +681,7 @@ Daily Coding Challenge
 | [0287-find-the-duplicate-number](https://github.com/Ashis1811/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Ashis1811/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Ashis1811/LeetCode/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/Ashis1811/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ashis1811/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Ashis1811/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ashis1811/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |

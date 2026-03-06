@@ -1272,4 +1272,5 @@ Daily Coding Challenge
 | [1661-average-time-of-process-per-machine](https://github.com/Ashis1811/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Ashis1811/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Ashis1811/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/Ashis1811/LeetCode/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->

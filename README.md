@@ -1280,6 +1280,7 @@ Daily Coding Challenge
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Ashis1811/LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/Ashis1811/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1729-find-followers-count](https://github.com/Ashis1811/LeetCode/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Ashis1811/LeetCode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1827-invalid-tweets](https://github.com/Ashis1811/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Ashis1811/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Ashis1811/LeetCode/tree/master/1934-confirmation-rate) |

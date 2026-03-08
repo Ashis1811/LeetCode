@@ -1287,4 +1287,5 @@ Daily Coding Challenge
 | [1907-count-salary-categories](https://github.com/Ashis1811/LeetCode/tree/master/1907-count-salary-categories) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Ashis1811/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Ashis1811/LeetCode/tree/master/1934-confirmation-rate) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Ashis1811/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->

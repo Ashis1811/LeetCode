@@ -1280,6 +1280,7 @@ Daily Coding Challenge
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Ashis1811/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1251-average-selling-price](https://github.com/Ashis1811/LeetCode/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/Ashis1811/LeetCode/tree/master/1258-article-views-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Ashis1811/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Ashis1811/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/Ashis1811/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Ashis1811/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |

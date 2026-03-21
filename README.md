@@ -545,6 +545,7 @@ Daily Coding Challenge
 | [0020-valid-parentheses](https://github.com/Ashis1811/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ashis1811/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Ashis1811/LeetCode/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/Ashis1811/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Ashis1811/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ashis1811/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ashis1811/LeetCode/tree/master/0132-palindrome-partitioning-ii) |

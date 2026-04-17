@@ -35,6 +35,7 @@ Daily Coding Challenge
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ashis1811/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Ashis1811/LeetCode/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/Ashis1811/LeetCode/tree/master/0213-house-robber-ii) |
+| [0283-move-zeroes](https://github.com/Ashis1811/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ashis1811/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ashis1811/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ashis1811/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -1078,6 +1079,7 @@ Daily Coding Challenge
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashis1811/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Ashis1811/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Ashis1811/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Ashis1811/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ashis1811/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0768-partition-labels](https://github.com/Ashis1811/LeetCode/tree/master/0768-partition-labels) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Ashis1811/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |

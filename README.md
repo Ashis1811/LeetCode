@@ -33,6 +33,7 @@ Daily Coding Challenge
 | [0136-single-number](https://github.com/Ashis1811/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ashis1811/LeetCode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ashis1811/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/Ashis1811/LeetCode/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/Ashis1811/LeetCode/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ashis1811/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ashis1811/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -441,6 +442,7 @@ Daily Coding Challenge
 | [0050-powx-n](https://github.com/Ashis1811/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ashis1811/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ashis1811/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Ashis1811/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ashis1811/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ashis1811/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ashis1811/LeetCode/tree/master/0342-power-of-four) |
@@ -1074,6 +1076,7 @@ Daily Coding Challenge
 | [0142-linked-list-cycle-ii](https://github.com/Ashis1811/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Ashis1811/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashis1811/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Ashis1811/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Ashis1811/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Ashis1811/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0768-partition-labels](https://github.com/Ashis1811/LeetCode/tree/master/0768-partition-labels) |

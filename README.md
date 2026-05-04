@@ -42,6 +42,7 @@ Daily Coding Challenge
 | [0312-burst-balloons](https://github.com/Ashis1811/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Ashis1811/LeetCode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Ashis1811/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/Ashis1811/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Ashis1811/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ashis1811/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Ashis1811/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -265,6 +266,7 @@ Daily Coding Challenge
 | [0322-coin-change](https://github.com/Ashis1811/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Ashis1811/LeetCode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Ashis1811/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/Ashis1811/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Ashis1811/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ashis1811/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Ashis1811/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -642,6 +644,7 @@ Daily Coding Challenge
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashis1811/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Ashis1811/LeetCode/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/Ashis1811/LeetCode/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/Ashis1811/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ashis1811/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ashis1811/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Ashis1811/LeetCode/tree/master/0621-task-scheduler) |
@@ -767,6 +770,7 @@ Daily Coding Challenge
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashis1811/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Ashis1811/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ashis1811/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Ashis1811/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0794-swim-in-rising-water](https://github.com/Ashis1811/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Ashis1811/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0907-koko-eating-bananas](https://github.com/Ashis1811/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -977,6 +981,7 @@ Daily Coding Challenge
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Ashis1811/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Ashis1811/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashis1811/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0831-largest-sum-of-averages](https://github.com/Ashis1811/LeetCode/tree/master/0831-largest-sum-of-averages) |

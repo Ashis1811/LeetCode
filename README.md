@@ -69,6 +69,7 @@ Daily Coding Challenge
 | [0830-largest-triangle-area](https://github.com/Ashis1811/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0831-largest-sum-of-averages](https://github.com/Ashis1811/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [0840-magic-squares-in-grid](https://github.com/Ashis1811/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0875-koko-eating-bananas](https://github.com/Ashis1811/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0876-hand-of-straights](https://github.com/Ashis1811/LeetCode/tree/master/0876-hand-of-straights) |
 | [0878-shifting-letters](https://github.com/Ashis1811/LeetCode/tree/master/0878-shifting-letters) |
 | [0907-koko-eating-bananas](https://github.com/Ashis1811/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -780,6 +781,7 @@ Daily Coding Challenge
 | [0410-split-array-largest-sum](https://github.com/Ashis1811/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0794-swim-in-rising-water](https://github.com/Ashis1811/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Ashis1811/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0875-koko-eating-bananas](https://github.com/Ashis1811/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/Ashis1811/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/Ashis1811/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ashis1811/LeetCode/tree/master/1046-max-consecutive-ones-iii) |

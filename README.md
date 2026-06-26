@@ -375,6 +375,7 @@ Daily Coding Challenge
 | [0142-linked-list-cycle-ii](https://github.com/Ashis1811/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashis1811/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Ashis1811/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Ashis1811/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/Ashis1811/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ashis1811/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Ashis1811/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -569,6 +570,7 @@ Daily Coding Challenge
 | [0072-edit-distance](https://github.com/Ashis1811/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ashis1811/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ashis1811/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0205-isomorphic-strings](https://github.com/Ashis1811/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/Ashis1811/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ashis1811/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/Ashis1811/LeetCode/tree/master/0474-ones-and-zeroes) |

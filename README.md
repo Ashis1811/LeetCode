@@ -30,6 +30,7 @@ Daily Coding Challenge
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashis1811/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashis1811/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ashis1811/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Ashis1811/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Ashis1811/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Ashis1811/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ashis1811/LeetCode/tree/master/0169-majority-element) |
@@ -371,6 +372,7 @@ Daily Coding Challenge
 | [0036-valid-sudoku](https://github.com/Ashis1811/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ashis1811/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Ashis1811/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Ashis1811/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Ashis1811/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ashis1811/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashis1811/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -1342,4 +1344,8 @@ Daily Coding Challenge
 | [1908-recyclable-and-low-fat-products](https://github.com/Ashis1811/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Ashis1811/LeetCode/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Ashis1811/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ashis1811/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
